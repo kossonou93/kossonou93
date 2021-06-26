@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin Kossonou
-- 👀 I’m interested in computer science
+- 👀 I’m computer science engenieer
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on New Technologies
 - 📫 How to reach me ...
